@@ -28,6 +28,11 @@ For detailed instructions on how to run the demo locally, refer to the [demo-ins
 - **Vitest**: Vitest is a lightweight testing library for React applications. It provides utilities for writing unit tests using a simple and intuitive API, making it easier to test React components and ensure code quality.
 - **RTL (React Testing Library)**: React Testing Library is a popular testing utility for React applications. It encourages writing tests that resemble how users interact with the application, making tests more maintainable and less brittle. It also provides a wide range of utility functions for interacting with and asserting on React components.
 
-## Contributors
+## Challenge
 
-- [Benjie Velarde](https://github.com/bjvelarde)
+Based on the described features above, write a comprehensive end-to-end test using a tool familiar to you, e.g.
+
+- Cucumber
+- Cypress
+- Puppeteer
+- etc.

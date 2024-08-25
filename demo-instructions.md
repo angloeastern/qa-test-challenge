@@ -16,7 +16,3 @@ Please follow the steps below to run the demo locally:
 - Install dependencies: `pnpm install`
 - Start the development server: `pnpm run dev`
 - Run tests: `pnpm run test`
-
-## Contributors
-
-- [Benjie Velarde](https://github.com/bjvelarde)
