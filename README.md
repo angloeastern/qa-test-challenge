@@ -35,4 +35,9 @@ Based on the described features above, write a comprehensive end-to-end test usi
 - Cucumber
 - Cypress
 - Puppeteer
+- Robot Framework
 - etc.
+
+## Deliverable
+
+Create a github repo containing all the test scripts and the results, and share the link with us via e-mail. 
